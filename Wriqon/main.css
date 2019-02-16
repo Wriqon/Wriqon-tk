@@ -1,0 +1,44 @@
+body {
+	max-width: 960px;
+	background-color: #F4F4F4;
+	margin: auto;
+	font-family: sans-serif;
+}
+		
+h1 {
+	color: #C0B283;
+	text-align: center;
+	font-size: 2.5em;
+}
+	
+h2 {
+	color: #C0B283;
+}
+	
+h3 {
+	color: #C0B283;
+}
+	
+p {
+	color: #373737;
+	}
+		
+a {
+}
+		
+displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ol.stuntlist {
+	line-height: 1.2;
+}
+		
+footer {
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
+		
