@@ -1,0 +1,1 @@
+document.getElementsByTagName('footer')[0].innerHTML = '<p>Site created by WBosley and distributed freely under the MIT license.</p>';

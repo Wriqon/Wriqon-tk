@@ -1,10 +1,19 @@
+header {
+	background-color: #DCD0C0;
+}
+
 body {
 	max-width: 960px;
 	background-color: #F4F4F4;
 	margin: auto;
 	font-family: sans-serif;
 }
-		
+
+div {
+	padding-top: 15px;
+	background-color: #DCD0C0;
+}
+
 h1 {
 	color: #C0B283;
 	text-align: center;
