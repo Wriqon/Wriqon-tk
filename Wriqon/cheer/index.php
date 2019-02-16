@@ -48,9 +48,9 @@
 <p>The hardest level of skills. Different people will find some skills in this section a lot easier than others. I'm listing these in what I think is the easiest way to get a feel for elite stunting.</p>
 
 <ol class="stuntlist" type="I">
+	<li><a href="elites/rewind.php">Rewind</a></li>
 	<li><a href="elites/fronthand.php">Front handspring up</a></li>
 	<li><a href="elites/backhand.php">Back handspring up</a></li>
-	<li><a href="elites/rewind.php">Rewind</a></li>
 	<li><a href="elites/handtohand.php">Hand to hand</a></li>
 	<li><a href="elites/backhandlib.php">Back handspring up immediate lib</a></li>
 	<li><a href="elites/rewindlib.php">Rewind immediate lib</a></li>
