@@ -1,9 +1,11 @@
+/* Wright Bosley 19 Feb 2019 MIT license
+Main css page for the entire site */
 header {
 	background-color: #DCD0C0;
 }
 
 body {
-	max-width: 960px;
+	max-width: 1200px;
 	background-color: #F4F4F4;
 	margin: auto;
 	font-family: sans-serif;

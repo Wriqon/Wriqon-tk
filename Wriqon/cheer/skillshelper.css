@@ -1,0 +1,32 @@
+/* Wright Bosley 19 Feb 2019 MIT license
+Cheer skills pages CSS helper */
+
+h2, h3 {
+	color:black;
+}
+
+#instructions {
+	overflow:auto;
+	width:90%;
+	background:#DCD0C0;
+	margin:5%;
+}
+
+#left, #right {
+	width: 45%;
+	margin: 5px;
+	padding: 1em;
+	border: 1px solid black; /*needs to be taken out*/
+}
+
+#left {
+	float:left;
+}
+
+#right {
+	float:right;
+}
+
+iframe {
+
+}
