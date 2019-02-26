@@ -12,7 +12,7 @@
 <header>
 </header>
 
-<h1>This page is under construction right now....</h1>
+<h1>Toss to Hands Coed Guide</h1>
 
 <div id="instructions"> <!--SKILLS START HERE!!!-->
 
