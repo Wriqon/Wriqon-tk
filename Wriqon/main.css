@@ -1,43 +1,53 @@
 /* Wright Bosley 19 Feb 2019 MIT license
 Main css page for the entire site */
 header {
-	background-color: #DCD0C0;
+	background-color: #1F2833;
 }
 
 body {
 	max-width: 1200px;
-	background-color: #F4F4F4;
+	background-color: #0B0C10;
 	margin: auto;
 	font-family: sans-serif;
+	color: #C8C9C7;
+}
+
+article {
+	background-color: #1F2833;
 }
 
 div {
-	padding-top: 15px;
-	background-color: #DCD0C0;
+	padding: 15px 5px;
+	background-color: #1F2833;
 }
 
 h1 {
-	color: #C0B283;
+	color: #FFD100;
 	text-align: center;
 	font-size: 2.5em;
 }
 	
 h2 {
-	color: #C0B283;
+	color: #FFD100;
 }
 	
 h3 {
-	color: #C0B283;
+	color: #FFCD00;
 }
 	
-p {
-	color: #373737;
-	}
-		
-a {
+a:link {
+	color: #C4C7C7;
 }
-		
-displayed {
+
+a:visited {
+	color: #7E8181;
+}
+
+a:hover {
+	color: #FFD100;
+}
+
+.displayed {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -49,7 +59,10 @@ ol.stuntlist {
 		
 footer {
 	text-align: center;
-	background-color: grey;
-	color: white;
+	background-color: #1F2833;
+	color: #C8C9C7;
 }
-		
+
+#AACCA {
+	color: #FFD100;
+}

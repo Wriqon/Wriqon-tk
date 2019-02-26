@@ -18,6 +18,8 @@
 	<img class="displayed" src="images/cteampic.jpg">
 </header>
 
+<div>
+
 <h1>This is where we gonna learn you some stunts</h1>
 <p id="disclaimer"><i>Read the disclaimer at the bottom first</i></p></br>
 
@@ -68,11 +70,14 @@
 	<li><a href="elites/onetoone.php">One arm rewind</a></li>
 </ol>
 
-</br>
-<p id="disclaimer"><i>Stunting is <b>dangerous</b>. People can die by doing these things. Don't do any of this stuff without a mat and a good spotter. This page is intended only as a rough guide, don't take anything I write as the best way to do things. Follow these guides with extreme caution and use common sense. <a href="https://aacca.org/safety-rules/">Find and read the AACCA cheerleading safety rules on this page.</a> Don't get yourself or anyone else hurt because you didn't take proper safety measures. By using this website you release me from any and all liability and responsibility for your safety.</i></p>
+</br></br></br></br></br></br>
+<p id="disclaimer"><i>Stunting is <b>dangerous</b>. People can die by doing these things. Don't do any of this stuff without a mat and a good spotter. This page is intended only as a rough guide, don't take anything I write as the best way to do things. Follow these guides with extreme caution and use common sense. <a href="https://aacca.org/safety-rules/" id="AACCA">Find and read the AACCA cheerleading safety rules on this page.</a> Don't get yourself or anyone else hurt because you didn't take proper safety measures. By using this website you release me from any and all liability and/or responsibility for your safety.</i></p>
+
+<div>
+
 
 <footer>
-</footer></br></br></br></br></br></br></br>
+</footer>
 
 <script type="text/javascript" src="../footer.js"></script>
 </body>
